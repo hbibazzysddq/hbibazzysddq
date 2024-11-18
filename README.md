@@ -1,86 +1,18 @@
-<h1 align="center" style="color: #4A90E2;">Hi 👋, I'm Habib Azizy Siddiq</h1>
-<h3 align="center" style="color: #7B7B7B;">Learning by Doing | Every Line a Step Forward</h3>
+# 💫 About Me:
+<p align="center" style="margin: 20px 0;"><br>  <strong>🌱 I’m currently learning:</strong> <br><br>  <span style="font-size: 1.2em; color: #4A90E2;">Flutter & Express.js</span><br></p><br><br><p align="center" style="margin: 20px 0;"><br>  <strong>👨‍💻 All of my projects are available at:</strong> <br><br>  <a href="https://habib-portofolio.vercel.app/" target="_blank" style="text-decoration: none; color: #4A90E2;">habib-portofolio.vercel.app</a><br></p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hbibazzysddq&label=Profile%20views&color=0e75b6&style=flat" alt="hbibazzysddq" />
-</p>
 
-<p align="center" style="margin: 20px 0;">
-  <strong>🌱 I’m currently learning:</strong> <br>
-  <span style="font-size: 1.2em; color: #4A90E2;">Flutter & Express.js</span>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habibazizysiddiq_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xmodra_) 
 
-<p align="center" style="margin: 20px 0;">
-  <strong>👨‍💻 All of my projects are available at:</strong> <br>
-  <a href="https://habib-portofolio.vercel.app/" target="_blank" style="text-decoration: none; color: #4A90E2;">habib-portofolio.vercel.app</a>
-</p>
-
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hbibazzysddq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hbibazzysddq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hbibazzysddq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=hbibazzysddq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left" style="color: #4A90E2;">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/habibazizysiddiq_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="habibazizysiddiq_" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left" style="color: #4A90E2;">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 5px;" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin: 5px;" />
-    </a>
-</p>
-
----
-
-<h3 align="left" style="color: #4A90E2;">📊 My Stats:</h3>
-<p>
-  <a href="https://git.io/streak-stats">
-    <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=hbibazzysddq&theme=dark&background=000000" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hbibazzysddq&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hbibazzysddq&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center" style="color: #7B7B7B;">by Habib Azizy Siddiq</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
